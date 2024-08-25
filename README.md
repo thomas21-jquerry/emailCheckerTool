@@ -1,4 +1,4 @@
-# Email Checker tool
+# Email Checker Tool
 
 ## How to run
 - RUN in terminal  ```git clone https://github.com/thomas21-jquerry/emailCheckerTool ```
